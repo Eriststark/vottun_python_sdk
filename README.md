@@ -2,7 +2,7 @@
 
 The Vottun Python SDK provides an interface for interacting with Ethereum-like blockchain networks. It allows you to deploy contracts, manage allowances, query balances, and handle transactions. This SDK is powered by Vottun APIs (Crypto (ERC-20) and Web3 Core). This SDK is already functional; however, I will probably update it and improve it over time, adding more functionality and features, and fixing any error of course.
 
-If you do not want to install the sdk, you can just put your scripts inside the root folder of this repository and import the VottunClient class from the client.py file in your script, like shown in the example_usage.py file. You can try the pieces of code in the example_usage.py file; you just have to uncomment one and run that script. When instancing the VottunClient class, make sure to replace <your_api_key> and <your_app_id> with your own Vottun api key and app id. For more information about the Votttun APIs visit https://docs.vottun.io/.
+If you do not want to install the sdk, you can just put your scripts inside the root folder of this repository and import the VottunClient class from the client.py file, like shown in the example_usage.py file. You can try the pieces of code in the example_usage.py file; you just have to uncomment one and run that script. When instancing the VottunClient class, make sure to replace <your_api_key> and <your_app_id> with your own Vottun api key and app id. For more information about the Votttun APIs visit https://docs.vottun.io/.
 
 
 ## Installation
