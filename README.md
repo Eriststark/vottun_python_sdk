@@ -10,28 +10,25 @@ You can install the SDK either locally or globally.
 1.  Clone the repository:
 
 (bash)
-"""
-git clone <repository_url>
-"""
+
+    git clone <repository_url>
+
 
 2.  Navigate to the project directory:
 
 (bash)
-"""
-cd vottun_python_sdk
-"""
+
+    cd vottun_python_sdk
 
 (bash)
-"""
-pip install .
-"""
+
+    pip install .
 
 ## Install the SDK globally:
 
 (bash)
-"""
-pip install <path_to_vottun_python_sdk>
-"""
+
+    pip install <path_to_vottun_python_sdk>
 
 If you do not want to install the sdk, you can just put your scripts inside the root folder of this repository and import the VottunClient class from the client.py file in your script, like shown in the example_usage.py file.
 
