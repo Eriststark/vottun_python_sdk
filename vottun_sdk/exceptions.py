@@ -1,0 +1,3 @@
+
+class VottunAPIException(Exception):
+    pass
