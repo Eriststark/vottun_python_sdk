@@ -1,6 +1,6 @@
 # Vottun Python SDK
 
-The Vottun Python SDK provides an interface for interacting with Ethereum-like blockchain networks. It allows you to deploy contracts, manage allowances, query balances, and handle transactions. This SDK is powered by Vottun APIs, especically Web3 Core and Crypto (ERC-20).
+The Vottun Python SDK provides an interface for interacting with Ethereum-like blockchain networks. It allows you to deploy contracts, manage allowances, query balances, and handle transactions. This SDK is powered by Vottun APIs, especically Web3 Core and Crypto (ERC-20). This SDK is already functional; however, I will probably updated it over time to add more functionality and feautures.
 
 # Installation
 
