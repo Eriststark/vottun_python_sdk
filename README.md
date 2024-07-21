@@ -30,7 +30,7 @@ You can install the SDK either locally or globally.
 
     pip install <path_to_vottun_python_sdk>
 
-If you do not want to install the sdk, you can just put your scripts inside the root folder of this repository and import the VottunClient class from the client.py file in your script, like shown in the example_usage.py file. You can try the pieces of code in the example_usage.py file; you just have to uncomment one and run that script in your terminal. 
+If you do not want to install the sdk, you can just put your scripts inside the root folder of this repository and import the VottunClient class from the client.py file in your script, like shown in the example_usage.py file. You can try the pieces of code in the example_usage.py file; you just have to uncomment one and run that script in your terminal. When instancing the VottunClient class , make sure to replace <api_key> and <app_id> with your own Vottun api key and app id.
 
 ## Usage
 
