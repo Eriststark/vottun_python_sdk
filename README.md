@@ -38,6 +38,6 @@ Navigate to the project directory:
 
 ## Usage
 
-The SDK can be used programmatically in scripts or interactively via command line prompts. Programmatic Usage
+The SDK can be used programmatically in scripts or interactively via command line prompts.
 
 You can use the SDK in your Python scripts as shown in the example_usage.py file. You can use it interactively by calling the prompt methods or just pass the values to the request classes to instance a new request object via code and then call the respective methods to get the responses.
